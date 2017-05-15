@@ -1,0 +1,8 @@
+bower_components/
+node_modules/
+composer.lock
+
+# IDEs 
+.idea/
+/nbproject/
+.vscode
